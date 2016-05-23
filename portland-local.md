@@ -5,6 +5,7 @@
 
 ##Original Brews
 The first Portland breweries were led by Ninkasi Brewing, Widmer Brothers, Deschutes Brewery, and McMenamins, respectively.
+
 * Wider Brothers **Altbier**
 * McMenamins **Hillsdale Ale**
 * Portland Brewing **Bert Grant's Ale**
@@ -20,6 +21,7 @@ Calling a beer the best is a great way to make friends in Portland...right?
 
 ##Seasonals
 Beers to quench your thirst this summer
+
 * Double Monutain **Devil's Kriek**
 * Burnside Brewing **Lime Kolsch**
 * Ninkasi **Lux**
@@ -27,12 +29,14 @@ Beers to quench your thirst this summer
 
 ##Weird Beers
 When appealing to the most pretentious o hipsters, these will serve you well.
+
 #####Rogue Ales **Beard Bear**
 ####Old Market Pub & Brewery's **Dilution of Grandeur**
 ###Boulder Beer Co.'s **Pump Up the Jam**
 
 ##German Beer Bars
 Restricted by the 500 year old **_Reinheitsgebot_**, German breweries are restricted to four ingredients: water, hops, barely, and yeast. Here's a few bars that provide such beers.
+
 * Prost! Portland (_4237 N Mississippi Ave_)
 * Burnside Brewing Co. (_701 E Burnside St_)
 * Stammtisch (_401 NE 28th Ave_)
