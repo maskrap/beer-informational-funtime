@@ -12,10 +12,10 @@ The first Portland breweries were led by Ninkasi Brewing, Widmer Brothers, Desch
 
 ##The Most Popular Brews
 Calling a beer the best is a great way to make friends in Portland...right?
-1. Breakside **IPA**
-2. Deschutes **The Abyss**
-3. The Commons **Urban Farmhouse Ale**
-4. Boneyard **Hop Venom** _perhaps better than pliny??_
+1.Breakside **IPA**
+2.Deschutes **The Abyss**
+3.The Commons **Urban Farmhouse Ale**
+4.Boneyard **Hop Venom** _perhaps better than pliny??_
 
 ##Seasonals
 Beers to quench your thirst this summer
